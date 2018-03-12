@@ -6,6 +6,7 @@
 
 * Funktionsweise von python
 * Variable und Datentypen
+* Ein- und Ausgabe
 * Abfragen (if...)
 * Schleifen (for, while)
 * Listen
